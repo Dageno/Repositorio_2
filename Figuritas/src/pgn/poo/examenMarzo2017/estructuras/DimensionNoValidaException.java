@@ -3,10 +3,13 @@ package pgn.poo.examenMarzo2017.estructuras;
 public class DimensionNoValidaException extends Exception {
 
 	/**
-	 * 
+	 * Primer comentario javadoc
 	 */
 	private static final long serialVersionUID = 1L;
-
+	
+	/**
+	 *Segundo comentario javadoc
+	 */
 	public DimensionNoValidaException() {
 		// TODO Auto-generated constructor stub
 	}
